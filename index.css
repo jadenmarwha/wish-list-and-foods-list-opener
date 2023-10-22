@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        /* Style for h1 */
+        h1 {
+            font-size: 24px;
+            font-weight: bold;
+            color: #333; /* Text color */
+            text-align: center;
+            margin-top: 20px;
+        }
+
+        /* Style for h2 */
+        h2 {
+            font-size: 18px;
+            color: #555; /* Text color */
+            text-align: center;
+            margin-top: 10px;
+        }
+
+        /* Style for the anchor tag */
+        a {
+            display: block;
+            text-align: center;
+            margin-top: 20px;
+            text-decoration: none; /* Remove underline */
+            background-color: #007bff; /* Button background color */
+            color: #fff; /* Button text color */
+            padding: 10px 20px;
+            border-radius: 5px; /* Rounded corners */
+            font-weight: bold;
+        }
+
+        /* Hover effect for the anchor tag */
+        a:hover {
+            background-color: #0056b3; /* Darker background color on hover */
+        }
+    </style>
+</head>
+<body>
+    <h1>My work 💅</h1>
+    <h2>Click here to see my wish list</h2>
+    <a href="https://scrimba.com/scrim/cyKZKZh4" target="_blank">Here</a>
+</body>
+</html>
